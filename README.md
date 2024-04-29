@@ -26,9 +26,13 @@ Everyday Snacks calculates prices based on different factors, including unit cos
 
 ### Product Pricing:
 See Table A.
+<img width="470" alt="Screenshot_3" src="https://github.com/marinadimovska/SnackPricing/assets/110173709/3739f40c-b503-4865-a45e-d7da4caeb16f">
+
 
 ### Client Discounts:
 See Table B.
+<img width="462" alt="Screenshot_4" src="https://github.com/marinadimovska/SnackPricing/assets/110173709/f29f4b33-5265-43d9-b1f2-526932f56adc">
+
 
 ## Input and Output
 The application reads input data from external files in the following formats:
