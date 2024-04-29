@@ -1,0 +1,37 @@
+[
+  {
+    "clientId": 1,
+    "clientName": "ABC Distribution",
+    "basicClientDiscount": 5,
+    "volumeDiscountAbove10000": 0,
+    "volumeDiscountAbove30000": 2
+  },
+  {
+    "clientId": 2,
+    "clientName": "DEF Foods",
+    "basicClientDiscount": 4,
+    "volumeDiscountAbove10000": 1,
+    "volumeDiscountAbove30000": 2
+  },
+  {
+    "clientId": 3,
+    "clientName": "GHI Trade",
+    "basicClientDiscount": 3,
+    "volumeDiscountAbove10000": 1,
+    "volumeDiscountAbove30000": 3
+  },
+  {
+    "clientId": 4,
+    "clientName": "JKL Kiosks",
+    "basicClientDiscount": 2,
+    "volumeDiscountAbove10000": 3,
+    "volumeDiscountAbove30000": 5
+  },
+  {
+    "clientId": 5,
+    "clientName": "MNO Vending",
+    "basicClientDiscount": 0,
+    "volumeDiscountAbove10000": 5,
+    "volumeDiscountAbove30000": 7
+  }
+]
